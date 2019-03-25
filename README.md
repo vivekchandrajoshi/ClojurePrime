@@ -20,12 +20,13 @@ lein run 5
 ```
 prime-check?
 ```
+Use for check the number is prime or not
 
 ```
 get-first-n-primes
 ```
-
+Use for get all prime number 
 ```
 -main
 ```
-
+Use for generating the Prime number table and multiply the row col
