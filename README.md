@@ -30,3 +30,16 @@ Use for get all prime number
 -main
 ```
 Use for generating the Prime number table and multiply the row col
+
+
+## Time complexity
+
+Input
+```
+(time (prime-check? 1)
+```
+output
+```
+"Elapsed time: 0.1066 msecs"
+```
+same for rest of the function  
