@@ -15,5 +15,17 @@ The script also accepts an optional argument to print out the table for the firs
 ```
 lein run 5
 ```
+## Functions
 
-## License
+```
+prime-check?
+```
+
+```
+get-first-n-primes
+```
+
+```
+-main
+```
+
